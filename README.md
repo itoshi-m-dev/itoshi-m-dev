@@ -8,7 +8,8 @@
 ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=itoshi-m-dev&show_icons=true&theme=radical)
 
 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoshi-m-dev&langs_count=8)
+
 
 
 
