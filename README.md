@@ -7,7 +7,7 @@
 
 ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=itoshi-m-dev&show_icons=true&theme=tokyonight)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoshi-m-dev&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itoshi-m-dev)](https://github.com/itoshi-m-dev/github-readme-stats)
 
 
 
