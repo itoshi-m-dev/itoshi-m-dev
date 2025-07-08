@@ -42,10 +42,6 @@
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 ![FastApi](https://img.shields.io/badge/-FastApi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{itoshi-m-dev}/count.svg" /></p> 
-<br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer"/>
