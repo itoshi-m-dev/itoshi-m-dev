@@ -10,9 +10,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itoshi-m-dev&bg_color=000000&color=9966cc&line=9370db&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itoshi-m-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
